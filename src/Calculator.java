@@ -17,6 +17,9 @@ public class Calculator {
     public static double divide(double d1, double d2) {
         return d1 / d2;
     }
+    public static double remainder(double n1,double n2){
+        return n1%n2;
+    }
 
 
     public static double division(double num1, double num2) {
